@@ -1,0 +1,17 @@
+body
+{
+    text-align: center;
+}
+
+marquee
+{
+background-color: blue;
+}
+iframe
+{
+width: 100%;
+}
+#map
+{
+width: 100%;
+}
